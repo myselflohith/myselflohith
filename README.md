@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on EXAMTECH<br>🌱 I’m currently learning AI<br>💬 Ask me about php,SQL,python<br>⚡ Fun fact I think I am committed with codie❤<br>📫 How to reach me lohithganiga3@gmail.com
+🔭 I’m currently working on EXAMTECH<br>🌱 I’m currently learning AI<br>💬 Ask me about php,SQL,python,js<br>⚡ Fun fact I think I am committed with codie❤<br>📫 How to reach me lohithganiga3@gmail.com
 
 
 ## 🌐 Socials:
