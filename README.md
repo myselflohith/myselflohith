@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on examtech.org and whatsappalerts.com<br>🌱 I’m currently learning AI<br>💬 Ask me about php,SQL,python,js<br>⚡ Fun fact I think I am committed with codie❤<br>📫 How to reach me lohithganiga3@gmail.com
+🔭 I’m currently working on examtech.org and iissms.com<br>🌱 I’m currently learning AI<br>💬 Ask me about php,SQL,python,js<br>⚡ Fun fact I think I am committed with codie❤<br>📫 How to reach me lohithganiga3@gmail.com
 
 
 ## 🌐 Socials:
